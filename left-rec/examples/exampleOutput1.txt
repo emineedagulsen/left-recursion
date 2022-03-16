@@ -1,0 +1,8 @@
+<E> -> <T> <E2>
+<E2> -> epsilon
+<E2> -> t <T> <E2>
+<T> -> <F> <T2>
+<T2> -> epsilon
+<T2> -> f <F> <T2>
+<F> -> o e c 
+<F> -> a 
